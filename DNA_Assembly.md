@@ -28,6 +28,10 @@ Source:
 * [The Golden Gate assembly method (and MoClo and GoldenBraid)](https://j5.jbei.org/j5manual/pages/23.html)
 * [Рестриктазы IIS, GoldenGate и GoldenBraid клонирование](https://stepik.org/lesson/11342/step/1?unit=2452)
 
+*Похожие способы:*
+* MoClo
+* Golden Braid
+
 ## Gibson
 
 ![Gibson](https://github.com/a-greshnova/Notes/blob/master/Gibson.png)
@@ -38,3 +42,11 @@ Source:
 * не оставляет шрамов
 * не зависит от последовательности (не нужно добавлять сайты рестрикции)
 * позволяет собрать сразу несколько фрагментов ДНК
+
+**Ограничения:**
+* получающиеся после обработки рестриктазами однонитевые фрагменты не должны образовывать шпилек
+
+*Похожие способы:*
+* SLIC
+* CPEC
+* SLiCE
