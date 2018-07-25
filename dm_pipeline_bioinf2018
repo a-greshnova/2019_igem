@@ -1,0 +1,56 @@
+#create links for
+#berline line
+
+ln -s GER1800136_Ber_LP180329001_R1.fastq.gz ber1.fastq.gz
+ln -s GER1800136_Ber_LP180329001_R2.fastq.gz ber2.fastq.gz
+
+#ts3 line
+
+ln -s GER1800137_ts3_LP180329001_R1.fastq.gz ts31.fastq.gz
+ln -s GER1800137_ts3_LP180329001_R2.fastq.gz ts32.fastq.gz
+
+#or line
+
+ln -s GER1800138_OR_LP180329001_R1.fastq.gz or1.fastq.gz
+ln -s GER1800138_OR_LP180329001_R2.fastq.gz or2.fastq.gz
+
+#x1 line
+
+ln -s GER1800139_X1_LP180329001_R1.fastq.gz x11.fastq.gz
+ln -s GER1800139_X1_LP180329001_R2.fastq.gz x12.fastq.gz
+
+#Cs line
+
+ln -s GER1800140_Cs_LP180329001_R1.fastq.gz Cs1.fastq.gz
+ln -s GER1800140_Cs_LP180329001_R2.fastq.gz Cs2.fastq.gz
+
+#run trimmomatic for Cs line
+
+java -jar ~/Documents/bioinf2018/Trimmomatic-0.38/trimmomatic-0.38.jar PE Cs1.fastq.gz Cs2.fastq.gz Cs_paired1.fastq.gz Cs_unpaired1.fastq.gz Cs_paired2.fastq.gz Cs_unpaired2.fastq.gz SLIDINGWINDOW:4:22 MINLEN:36
+
+#run trimmomatic with berlin line
+
+java -jar ~/Documents/bioinf2018/Trimmomatic-0.38/trimmomatic-0.38.jar PE ber1.fastq.gz ber2.fastq.gz ber_paired1.fastq.gz ber_unpaired1.fastq.gz ber_paired2.fastq.gz ber_unpaired2.fastq.gz SLIDINGWINDOW:4:22 MINLEN:36 
+
+#create link for reference
+
+ln -s Drosophila_melanogaster.BDGP6.dna_sm.toplevel.fa dm_bdgp6.fa
+bwa index dm_bdgp6.fa 
+
+#run trimmomatic for or line 
+
+java -jar ~/Documents/bioinf2018/Trimmomatic-0.38/trimmomatic-0.38.jar PE or1.fastq.gz or2.fastq.gz or_paired1.fastq.gz or_unpaired1.fastq.gz or_paired2.fastq.gz or_unpaired2.fastq.gz SLIDINGWINDOW:4:22 MINLEN:36
+
+#run alignment ber line  
+
+bwa mem -t 4 dm_bdgp6.fa ber1.fastq.gz ber2.fastq.gz | samtools view -b --threads 4 > ber.bam
+
+#run trimmomatic for ts3 line 
+
+java -jar ~/Documents/bioinf2018/Trimmomatic-0.38/trimmomatic-0.38.jar PE ts31.fastq.gz ts32.fastq.gz ts3_paired1.fastq.gz ts3_unpaired1.fastq.gz ts3_paired2.fastq.gz ts3_unpaired2.fastq.gz SLIDINGWINDOW:4:22 MINLEN:36
+
+#run trimmomatic for x1 line
+
+java -jar ~/Documents/bioinf2018/Trimmomatic-0.38/trimmomatic-0.38.jar PE x11.fastq.gz x12.fastq.gz x1_paired1.fastq.gz x1_unpaired1.fastq.gz x1_paired2.fastq.gz x1_unpaired2.fastq.gz SLIDINGWINDOW:4:22 MINLEN:36
+
+
