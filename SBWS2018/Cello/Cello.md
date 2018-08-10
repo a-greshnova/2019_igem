@@ -52,3 +52,7 @@ Cello использует библиотеку экспериментально
 Существует множество способов расположения элементов генетической сети. Ограничения могут быть определены пользователем через UCF - User Constant File. На выходе Cello предлагает один или несколько вариантов расположения элементов генетической сети, выполняющей заданую логическую функцию (файл в формате SBOL или GeneBank).
 
 [Cello Demo](https://www.youtube.com/watch?v=SLn_SkL7vkQ)
+[GitHub Cello](https://github.com/CIDARLAB/cello/tree/master)
+[Genetic circuit design automation](http://science.sciencemag.org/content/352/6281/aac7341) and [supplementary materials](http://cellocad.org/suppinfo.html)
+[User Guide for Cello](http://cellocad.org/usingcello.html)
+
