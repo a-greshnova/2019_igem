@@ -25,4 +25,4 @@ Translation         | 20
 RNA degradation     | 1
 Protein degradation | 1.5
 
-4. Промоделируйте поведение модели. **Add Task > Simulate model**
+4. Промоделируйте поведение модели. **Add Task > Simulate model > Run**
