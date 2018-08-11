@@ -25,3 +25,8 @@ RNA degradation     | 1
 Protein degradation | 1.5
 
 4. Промоделируйте поведение модели. **Add Task > Simulate model > Run**
+![sys dynamics](https://github.com/a-greshnova/Notes/blob/master/SBWS2018/MATLAB/gene%20expression.png)
+
+Немного усложним модель добавив регуляцию экспрессии: белок будет свзяваться с ДНК и снижать уровень экспрессии.
+
+![sys with reg dyn](https://github.com/a-greshnova/Notes/blob/master/SBWS2018/MATLAB/Gene%20expr%20with%20reg.png)
