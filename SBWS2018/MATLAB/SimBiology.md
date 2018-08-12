@@ -3,6 +3,7 @@
 MATLAB SimBiology - библиотека для моделирования, анализа и графического предстваления биохемических сетей. С помощью этой библитеки можно работать с готовыми моделями в формате SBML (System Biology Markup Language) или создавать новые модели. В SimBiology есть два режима работы: интерфейс командной строки и графический интерфейс.
 
 На примере простейшей модели экспрессии гена рассмотрим работу в режиме графического интерфейса.
+[Видео](https://github.com/a-greshnova/Notes/blob/master/SBWS2018/MATLAB/MATLAB%20SimBiology%20Gene%20expression%20model.flv)
 
 1. Запуск SimBiology. Откройте MATLAB > в Command Window напишите **simbiology**
 ![Open SB c](https://github.com/a-greshnova/Notes/blob/master/SBWS2018/MATLAB/Open%20SimBiology%20command.png)
@@ -42,4 +43,6 @@ Protein degradation | 1.5
 ![sys dynamics](https://github.com/a-greshnova/Notes/blob/master/SBWS2018/MATLAB/gene%20expression.png)
 
 Немного усложним модель добавив регуляцию экспрессии: белок будет свзяваться с ДНК и снижать уровень экспрессии.
+[Видео](https://github.com/a-greshnova/Notes/blob/master/SBWS2018/MATLAB/MATLAB%20SimBiology%20Gene%20expression%20with%20regulation.flv)
+
 ![sys with reg dyn](https://github.com/a-greshnova/Notes/blob/master/SBWS2018/MATLAB/Gene%20expr%20with%20reg.png)
