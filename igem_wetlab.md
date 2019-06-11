@@ -1,0 +1,50 @@
+# dCas9 -> GFP
+
+##
+
+### dCas9
+
+[BBa_K1150000](http://parts.igem.org/wiki/index.php?title=Part:BBa_K1150000)
+Inconsistent
+Можно охарактеризовать этот биобрик
+[Check](https://www.genscript.com/tools/rare-codon-analysis) codon optomisation index (CAI) 
+
+### GFP
+
+[pet28a GFP](https://benchling.com/greshnova/f/TeZKADfR-summer-practice-2019/seq-2hUdmAbT-pet28a_gfp-2/edit)
+
+На addgene есть плазмида с гибридным белком [dCas9-GFP](https://www.addgene.org/64104/)
+
+### Линкер
+
+Можно взять из плазмиды на addgene: ggctctactagtggctctcccaagaagaagaggaaggtaggatccggaagt (GSTSGSPKKKRKVGSGS)
+Коллекция линкеров на [igem](http://parts.igem.org/Protein_domains/Linker)
+
+[Статья](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3726540/pdf/nihms-411484.pdf) про гибридные белки
+
+Возможные варианты линкеров:
+- (GGGGS)n
+- (G)8
+- GSAGSAAGSGEF
+ - GFP -> protein
+ - меньше аггрегации и неправильного сворачивания
+
+## План работ
+
+1) Подготовка компетентных клеток E.coli
+2) Наработка dCas9
+3) ПЦР амплификация и добавление сайтов рестрикции и линкера к гену dCas9
+4) (?) Наработка плазмиды GFP
+5) Сборка dCas9 и GFP 
+6) Отбор клонов
+7) Экспрессия гибридного белка в E.coli
+8) Валидация результатов 
+ - Иммунопреципитация хроматина/антитела к gfp
+
+### Праймеры для ПЦР dCas9
+
+Forward:
+- добавляем сайт XbaI
+Reverse:
+- добавляем линкер (GSAGSAAGSGEF или GSTSGSPKKKRKVGSGS)
+- добавляем сайт EcoRI
