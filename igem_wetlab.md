@@ -1,5 +1,7 @@
 # dCas9 -> GFP
 
+[Benchling](https://benchling.com/greshnova/f_/TeZKADfR-summer-practice-2019/?filter=section%3Ainventory%3Btypes%3AIS_ONE_OF%3Afolder%2Cbasic_folder_item%2Cprotein%2Csequence%2Coligo%3Bfolder%3Alib_TeZKADfR%3BarchivePurposes%3AIS_ONE_OF%3ANOT_ARCHIVED&offset=0&limit=100&sort=name&reverse=0&q=)
+
 ##
 
 ### dCas9
