@@ -25,7 +25,7 @@ Inconsistent
 [Статья](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3726540/pdf/nihms-411484.pdf) про гибридные белки
 
 Возможные варианты линкеров:
-- (GGGGS)n
+- (GGGGS)n (n=3 [canditest](http://2018.igem.org/Team:UiOslo_Norway/Design), igem 2018)
 - (G)8
 - GSAGSAAGSGEF
  - GFP -> protein
