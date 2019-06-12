@@ -46,7 +46,10 @@ Inconsistent
 ### Праймеры для ПЦР dCas9
 
 Forward: TCTAGAGACAAGAAGTACA
+
 - добавляем сайт XbaI
+
 Reverse: GAATTCACTTCCGGATCCTACCTTCCTCTTCTTCTTGGGAGAGCCACTAGTAGAGCCGTCGCCTCCCAGC
+
 - добавляем линкер (GSAGSAAGSGEF или GSTSGSPKKKRKVGSGS)
 - добавляем сайт EcoRI
