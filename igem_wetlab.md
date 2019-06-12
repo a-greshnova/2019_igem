@@ -31,7 +31,7 @@ Inconsistent
  - GFP -> protein
  - меньше аггрегации и неправильного сворачивания
 
-## План работ
+## План работы
 
 1) Подготовка компетентных клеток E.coli
 2) Наработка dCas9
@@ -45,8 +45,8 @@ Inconsistent
 
 ### Праймеры для ПЦР dCas9
 
-Forward:
+Forward: TCTAGAGACAAGAAGTACA
 - добавляем сайт XbaI
-Reverse:
+Reverse: GAATTCACTTCCGGATCCTACCTTCCTCTTCTTCTTGGGAGAGCCACTAGTAGAGCCGTCGCCTCCCAGC
 - добавляем линкер (GSAGSAAGSGEF или GSTSGSPKKKRKVGSGS)
 - добавляем сайт EcoRI
