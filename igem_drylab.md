@@ -22,20 +22,28 @@ CjCas9 - NNNNRYAC
 Disease | Pathogen
 --------|---------
 **Bacterial** | ---
-Lyme disease or borreliosis (болезнь Лайма или боррелиоз) | Borrelia burgdorferi sensu lato
-Relapsing fever (возвратный тиф) | B. hermsii, B. parkeri, B. duttoni, B. miyamotoi
+*Lyme disease or borreliosis* (болезнь Лайма или боррелиоз) | Borrelia burgdorferi sensu stricto, Borrelia mayonii 
+*Relapsing fever* (возвратный тиф) | B. miyamotoi
 Rocky Mountain spotted fever (пятнистая лихорадка Скалистых гор) | Rickettsia rickettsii
 Helvetica spotted fever | Rickettsia helvetica
-Human granulocytic anaplasmosis (грануцитарный анаплазмос) | Anaplasma phagocytophilum
+*Human granulocytic anaplasmosis* (грануцитарный анаплазмос) | Anaplasma phagocytophilum
 Tularemia (туляремия) | Francisella tularensis, A. americanum
+*Ehrlichiosis* | Ehrlichia muris eauclairensis
 **Viral** | ---
 Tick-borne meningoencephalitis (Клещевой энцефалит) | TBEV (FSME) virus, a flavivirus from family Flaviviridae
-(?) Powassan virus | Powassan virus (POWV), a flavivirus from family Flaviviridae
+(?) *Powassan virus* | Powassan virus (POWV), a flavivirus from family Flaviviridae
 Crimean-Congo hemorrhagic fever (Геморрагическая лихорадка Крым-Конго) | CCHF virus, a nairovirus, from the Bunyaviridae
 **Protozoan** | ---
-Babesiosis (бабезиоз) | Babesia microti, B. equi
+*Babesiosis (бабезиоз)* | Babesia microti
 Cytauxzoonosis | C. felis
 
-Самое опасное - клещевой вирусный энцефалит.
+Combined, *these agents* account for > 90% of all reported tick-borne diseases.
 
-[Источник](https://en.wikipedia.org/wiki/Tick-borne_disease)
+[Wiki](https://en.wikipedia.org/wiki/Tick-borne_disease), [Microbiome analysis ofIxodes scapularisticks from New York andConnecticut](https://reader.elsevier.com/reader/sd/pii/S1877959X19300330?token=5A2B165264F914DAE686CC0BE7B8A964ED5A1650A63C434D1F8E4E26148FC24B43C4E360D26663E8C5D00A35D221AA5A)
+
+## 3. Список геномов патогенных и не патогенных организмов
+
+## 4. Микробиом Ixodes
+
+[Microbiome analysis ofIxodes scapularisticks from New York andConnecticut](https://reader.elsevier.com/reader/sd/pii/S1877959X19300330?token=5A2B165264F914DAE686CC0BE7B8A964ED5A1650A63C434D1F8E4E26148FC24B43C4E360D26663E8C5D00A35D221AA5A)
+
