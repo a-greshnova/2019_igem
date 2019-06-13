@@ -11,9 +11,11 @@
 
 ## 1. PAM разных Cas белков
 
-SpCas9 - NGG
-SaCas9 - NGRRT or NGRRN
-CjCas9 - NNNNRYAC
+Cas9 | PAM
+-----|-----
+SpCas9 | NGG
+SaCas9 | NGRRT or NGRRN
+CjCas9 | NNNNRYAC
 
 [Источник](https://blog.addgene.org/the-pam-requirement-and-expanding-crispr-beyond-spcas9)
 
@@ -45,5 +47,14 @@ Combined, *these agents* account for > 90% of all reported tick-borne diseases.
 
 ## 4. Микробиом Ixodes
 
-[Microbiome analysis ofIxodes scapularisticks from New York andConnecticut](https://reader.elsevier.com/reader/sd/pii/S1877959X19300330?token=5A2B165264F914DAE686CC0BE7B8A964ED5A1650A63C434D1F8E4E26148FC24B43C4E360D26663E8C5D00A35D221AA5A)
+Два вида рода *Ixodes*, с которыми наиболее часто ассоциированы болезни - собачьий (*Ixodes ricinus*) и таёжный (*Ixodes persulcatus*) клещи.
+
+[*Ixodes ricinus*](https://eol.org/pages/514939)
+
+[Integrated metatranscriptomics and metaproteomics for the characterization of bacterial microbiota in unfed Ixodes ricinus](https://www.sciencedirect.com/science/article/pii/S1877959X18300347?via%3Dihub)
+
+The metatranscriptomics analysis identified a total of 450 reads that matched with specific bacterial genomes distributed among 8 phyla and 38 genera, including uncultured bacteria.
+
+[Bacterial sequence database constructed with genome and/or species-specific rRNA sequences](https://ars.els-cdn.com/content/image/1-s2.0-S1877959X18300347-mmc1.pdf)
+
 
