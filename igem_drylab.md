@@ -57,6 +57,7 @@ Cytauxzoonosis | C. felis
 
 [Bacterial sequence database constructed with genome and/or species-specific rRNA sequences](https://ars.els-cdn.com/content/image/1-s2.0-S1877959X18300347-mmc1.pdf)
 
+Для вида Ixodes persulcatus не найдено данных из литературы.
 
 ## 4. Список геномов патогенных и непатогенных организмов
 
@@ -66,4 +67,8 @@ Cytauxzoonosis | C. felis
 - *Borrelia burgdorferi* - Lyme disease or borreliosis (болезнь Лайма или боррелиоз)
 - *Borrelia miyamotoi* - Relapsing fever (возвратный тиф)
 - *Ehrlichia muris* - Ehrlichiosis (эрлихоз)
+
+Список геномов патогенных организмов
+
+
 
