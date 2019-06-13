@@ -53,9 +53,10 @@ Cytauxzoonosis | C. felis
 
 [Integrated metatranscriptomics and metaproteomics for the characterization of bacterial microbiota in unfed Ixodes ricinus](https://www.sciencedirect.com/science/article/pii/S1877959X18300347?via%3Dihub)
 
-The metatranscriptomics analysis identified a total of 450 reads that matched with specific bacterial genomes distributed among 8 phyla and 38 genera, including uncultured bacteria.
+> The metatranscriptomics analysis identified a total of 450 reads that matched with specific bacterial genomes distributed among 8 phyla and 38 genera, including uncultured bacteria.
 
 [Bacterial sequence database constructed with genome and/or species-specific rRNA sequences](https://ars.els-cdn.com/content/image/1-s2.0-S1877959X18300347-mmc1.pdf)
+
 
 ## 4. Список геномов патогенных и непатогенных организмов
 
@@ -65,3 +66,4 @@ The metatranscriptomics analysis identified a total of 450 reads that matched wi
 - *Borrelia burgdorferi* - Lyme disease or borreliosis (болезнь Лайма или боррелиоз)
 - *Borrelia miyamotoi* - Relapsing fever (возвратный тиф)
 - *Ehrlichia muris* - Ehrlichiosis (эрлихоз)
+
