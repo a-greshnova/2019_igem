@@ -59,7 +59,7 @@ The metatranscriptomics analysis identified a total of 450 reads that matched wi
 
 ## 4. Список геномов патогенных и не патогенных организмов
 
-Патогенные организмы из таблицы 2, найденные в базе данных эндосимбионтов *Ixodes ricinus*.
+Патогенные организмы из таблицы 2, найденные в базе данных эндосимбионтов *Ixodes ricinus* (найдены возбудители самых распространенных бактериальных заболеваний).
 
 - *Anaplasma phagocytophilum* - Human granulocytic anaplasmosis (грануцитарный анаплазмос)
 - *Borrelia burgdorferi* - Lyme disease or borreliosis (болезнь Лайма или боррелиоз)
