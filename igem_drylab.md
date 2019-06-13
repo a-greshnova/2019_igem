@@ -3,7 +3,7 @@
 1. Литература PAM SpCas9, SaCas9, CjCas9
 2. Список tick-borne disease
 3. Микробиом Ixodes
-4. Список геномов патогенных организмов и не патогеных организмов
+4. Список геномов патогенных организмов и непатогеных организмов
 5. WGS ?
 6. Поиск PAM по геномам
 7. N PAM/1 Mb (PAM 2 PAM) - график; есть ли места, где расстояние между двумя PAM достаточно для образования комплекса; расстояние мд двумя 8. белками Cas9 - (21 + n10) (canditest 15, 30 nucleotides)
@@ -57,7 +57,7 @@ The metatranscriptomics analysis identified a total of 450 reads that matched wi
 
 [Bacterial sequence database constructed with genome and/or species-specific rRNA sequences](https://ars.els-cdn.com/content/image/1-s2.0-S1877959X18300347-mmc1.pdf)
 
-## 4. Список геномов патогенных и не патогенных организмов
+## 4. Список геномов патогенных и непатогенных организмов
 
 Патогенные организмы из таблицы 2, найденные в базе данных эндосимбионтов *Ixodes ricinus* (найдены возбудители самых распространенных бактериальных заболеваний).
 
