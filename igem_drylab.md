@@ -4,9 +4,9 @@
 - [x] Список tick-borne disease
 - [x] Микробиом Ixodes 
 - [x] Список геномов патогенных организмов и непатогеных организмов
-- [ ] WGS ?
 - [ ] Поиск PAM по геномам
-- [ ] N PAM/1 Mb (PAM 2 PAM) - график; есть ли места, где расстояние между двумя PAM достаточно для образования комплекса; расстояние мд двумя 8. белками Cas9 - (21 + n10) (canditest 15, 30 nucleotides)
+- [ ] N PAM/1 Mb (PAM 2 PAM) - график; есть ли места, где расстояние между двумя PAM достаточно для образования комплекса; расстояние мд двумя белками Cas9 - (21 + n10) (canditest 15, 30 nucleotides)
+- [ ] WGS ?
 - [ ] Проверка на уникальность последовательности рядом с PAM
 
 ## 1. PAM разных Cas белков
@@ -67,8 +67,6 @@ Cytauxzoonosis | C. felis
 - *Borrelia burgdorferi* - Lyme disease or borreliosis (болезнь Лайма или боррелиоз)
 - *Borrelia miyamotoi* - Relapsing fever (возвратный тиф)
 - *Ehrlichia muris* - Ehrlichiosis (эрлихоз)
-
-Список геномов патогенных организмов
 
 Accesion number	| Taxonomic assignment	| Pathogen
 ----|----|----
@@ -187,8 +185,3 @@ FJ824553.1 GI:270063501	|	Spiroplasma sp. GSU5508 23S ribosomal RNA gene, partia
 LT607803.1 GI:1052702473	|	Variovorax sp. HW608 genome assembly, chromosome: I	|	no
 KT273261.1 GI:908904416	|	Wolbachia endosymbiont of Mycopsylla fici isolate Syd 23S ribosomal RNA gene	|	no
 KT273259.1 GI:908904412	|	Wolbachia endosymbiont of Mycopsylla proxima isolate Nec 23S ribosomal RNA gene, partial sequence	|	no
-
-
-
-
-
