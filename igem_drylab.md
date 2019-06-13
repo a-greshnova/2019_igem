@@ -1,13 +1,13 @@
 # План работы
 
-1. Литература PAM SpCas9, SaCas9, CjCas9
-2. Список tick-borne disease
-3. Микробиом Ixodes
-4. Список геномов патогенных организмов и непатогеных организмов
-5. WGS ?
-6. Поиск PAM по геномам
-7. N PAM/1 Mb (PAM 2 PAM) - график; есть ли места, где расстояние между двумя PAM достаточно для образования комплекса; расстояние мд двумя 8. белками Cas9 - (21 + n10) (canditest 15, 30 nucleotides)
-9. Проверка на уникальность последовательности рядом с PAM
+- [x] Литература PAM SpCas9, SaCas9, CjCas9
+- [x] Список tick-borne disease
+- [x] Микробиом Ixodes 
+- [x] Список геномов патогенных организмов и непатогеных организмов
+- [ ] WGS ?
+- [ ] Поиск PAM по геномам
+- [ ] N PAM/1 Mb (PAM 2 PAM) - график; есть ли места, где расстояние между двумя PAM достаточно для образования комплекса; расстояние мд двумя 8. белками Cas9 - (21 + n10) (canditest 15, 30 nucleotides)
+- [ ] Проверка на уникальность последовательности рядом с PAM
 
 ## 1. PAM разных Cas белков
 
@@ -45,7 +45,7 @@ Cytauxzoonosis | C. felis
 
 Источники: [Wiki](https://en.wikipedia.org/wiki/Tick-borne_disease), [Microbiome analysis ofIxodes scapularisticks from New York andConnecticut](https://reader.elsevier.com/reader/sd/pii/S1877959X19300330?token=5A2B165264F914DAE686CC0BE7B8A964ED5A1650A63C434D1F8E4E26148FC24B43C4E360D26663E8C5D00A35D221AA5A)
 
-## 3. Микробиом Ixodes
+## 3. Микробиом Ixodes 
 
 Два вида рода *Ixodes*, с которыми наиболее часто ассоциированы болезни - собачьий (*Ixodes ricinus*) и таёжный (*Ixodes persulcatus*) клещи.
 
