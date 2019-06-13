@@ -185,3 +185,10 @@ FJ824553.1 GI:270063501	|	Spiroplasma sp. GSU5508 23S ribosomal RNA gene, partia
 LT607803.1 GI:1052702473	|	Variovorax sp. HW608 genome assembly, chromosome: I	|	no
 KT273261.1 GI:908904416	|	Wolbachia endosymbiont of Mycopsylla fici isolate Syd 23S ribosomal RNA gene	|	no
 KT273259.1 GI:908904412	|	Wolbachia endosymbiont of Mycopsylla proxima isolate Nec 23S ribosomal RNA gene, partial sequence	|	no
+
+## Поиск PAM по геномам
+
+[Borreliella burgdorferi B31](https://www.ncbi.nlm.nih.gov/genome/738?genome_assembly_id=168382)
+
+
+
