@@ -1,7 +1,7 @@
 # План работы
 
 1. Литература PAM SpCas9, SaCas9, CjCas9
-2. Список tick-borne disease (Borellia, Ecephalits, ...)
+2. Список tick-borne disease
 3. Микробиом Ixodes
 4. Список геномов патогенных организмов и не патогеных организмов
 5. WGS ?
