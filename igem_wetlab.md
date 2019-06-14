@@ -19,8 +19,11 @@
 
 [BBa_K1150000](http://parts.igem.org/wiki/index.php?title=Part:BBa_K1150000)
 Inconsistent
+
 Можно охарактеризовать этот биобрик
 [Check](https://www.genscript.com/tools/rare-codon-analysis) codon optomisation index (CAI) 
+
+? - Дмитрий
 
 ### GFP
 
