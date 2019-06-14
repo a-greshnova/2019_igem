@@ -190,5 +190,11 @@ KT273259.1 GI:908904412	|	Wolbachia endosymbiont of Mycopsylla proxima isolate N
 
 [Borreliella burgdorferi B31](https://www.ncbi.nlm.nih.gov/genome/738?genome_assembly_id=168382)
 
+## Поиск генетических маркеров
+
+[Borrelia burgdorferi Genetic Markers and Disseminated Disease in Patients with Early Lyme Disease](https://www.ncbi.nlm.nih.gov/pubmed/17035489)
+
+> Three genetic markers of Borrelia burgdorferi have been associated with disseminated disease: the OspC type, the 16S-23S rRNA intergenic spacer type (RST), and vlsE.
+
 
 
