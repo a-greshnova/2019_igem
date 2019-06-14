@@ -52,3 +52,7 @@ Reverse: GAATTCACTTCCGGATCCTACCTTCCTCTTCTTCTTGGGAGAGCCACTAGTAGAGCCGTCGCCTCCCAGC
 
 - добавляем линкер (GSAGSAAGSGEF или GSTSGSPKKKRKVGSGS)
 - добавляем сайт EcoRI
+
+### Подготовка компетентных клеток *E.coli*
+
+The Inoue Method for Preparation and Transformation of Competent E. coli: Ultracompetent Cells
