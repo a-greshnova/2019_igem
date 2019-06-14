@@ -39,8 +39,8 @@ Inconsistent
 - (GGGGS)n (n=3 [canditest](http://2018.igem.org/Team:UiOslo_Norway/Design), igem 2018)
 - (G)8
 - GSAGSAAGSGEF
- * GFP -> protein
- * меньше аггрегации и неправильного сворачивания
+  - GFP -> protein
+  - меньше аггрегации и неправильного сворачивания
 
 ### Праймеры для ПЦР dCas9
 
