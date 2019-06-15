@@ -5,7 +5,7 @@
 Задача | Время выполнения | Результат
 -------|------------------|-----
 Подготовка компетентных клеток E.coli | 12.06 - 15.06 | yes
-Наработка dCas9 | 15.06 - 17.06 | -
+Наработка dCas9 P6 11J 2019| 15.06 - 17.06 | -
 ПЦР амплификация и добавление сайтов рестрикции и линкера к гену dCas9 | (? праймеры) | -
 Наработка плазмиды GFP | - | -
 Сборка dCas9 и GFP | 2 дня | -
@@ -59,3 +59,4 @@ Reverse: GAATTCACTTCCGGATCCTACCTTCCTCTTCTTCTTGGGAGAGCCACTAGTAGAGCCGTCGCCTCCCAGC
 ### Подготовка компетентных клеток *E.coli*
 
 The Inoue Method for Preparation and Transformation of Competent E. coli: Ultracompetent Cells
+
