@@ -5,7 +5,7 @@
 Задача | Время выполнения | Результат
 -------|------------------|-----
 Подготовка компетентных клеток E.coli | 12.06 - 15.06 | yes
-Наработка dCas9 P6 11J 2019| 15.06 - 17.06 | -
+Наработка dCas9 P6 **11J 2019**| 15.06 - 17.06 | -
 ПЦР амплификация и добавление сайтов рестрикции и линкера к гену dCas9 | (? праймеры) | -
 Наработка плазмиды GFP | - | -
 Сборка dCas9 и GFP | 2 дня | -
@@ -59,4 +59,8 @@ Reverse: GAATTCACTTCCGGATCCTACCTTCCTCTTCTTCTTGGGAGAGCCACTAGTAGAGCCGTCGCCTCCCAGC
 ### Подготовка компетентных клеток *E.coli*
 
 The Inoue Method for Preparation and Transformation of Competent E. coli: Ultracompetent Cells
+
+## Разнообразие систем CRISPR
+
+[Презентация](https://github.com/a-greshnova/2019_igem/blob/master/Diversity%20and%20evolution%20of%20class%202%20CRISPR%E2%80%93Cas%20systems.pdf) по [обзору](https://www.nature.com/articles/nrmicro.2016.184)
 
