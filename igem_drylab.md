@@ -201,7 +201,7 @@ KT273259.1 GI:908904412	|	Wolbachia endosymbiont of Mycopsylla proxima isolate N
 
 ## Ошибка в jupyter notebook
 
-[error](https://github.com/a-greshnova/2019_igem/blob/master/error.png)
+![error](https://github.com/a-greshnova/2019_igem/blob/master/error.png)
 
 ## Определение расстояния мд двумя PAM для SjCas9 и SaCas9
 
