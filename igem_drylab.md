@@ -5,7 +5,7 @@
 - [x] Микробиом Ixodes 
 - [x] Список геномов патогенных организмов и непатогеных организмов
 - [x] Поиск PAM по геномам (Python function)
-- [x] N of oc / PAM 2 PAM distance - график; есть ли места, где расстояние между двумя PAM достаточно для образования комплекса; расстояние мд двумя белками Cas9 - (spCas9 - 21 + n10; canditest 15, 30 nucleotides)
+- [x] N of oc / PAM 2 PAM distance - график; есть ли места, где расстояние между двумя PAM достаточно для образования комплекса; расстояние мд двумя белками Cas9 - (spCas9 - 21 + n10; canditest 15, 30 nucleotides) - для двух цепей проблематично
 - [ ] Определение цели (поиск генетических маркеров, ncbi probe db...)
 - [ ] Проверка на уникальность последовательности рядом с PAM
 - [ ] Определение расстояния мд двумя PAM для SjCas9 и SaCas9 (Chimera)
@@ -193,15 +193,13 @@ KT273259.1 GI:908904412	|	Wolbachia endosymbiont of Mycopsylla proxima isolate N
 
 [Borreliella burgdorferi B31](https://www.ncbi.nlm.nih.gov/genome/738?genome_assembly_id=168382)
 
+[Файл с координатами PAM SpCas9 для биосенсора](https://github.com/intbio/2019_igem/blob/master/PAM_pairs_distance_26.txt)
+
 ## Поиск генетических маркеров
 
 [Borrelia burgdorferi Genetic Markers and Disseminated Disease in Patients with Early Lyme Disease](https://www.ncbi.nlm.nih.gov/pubmed/17035489)
 
 > Three genetic markers of Borrelia burgdorferi have been associated with disseminated disease: the OspC type, the 16S-23S rRNA intergenic spacer type (RST), and vlsE.
-
-## Ошибка в jupyter notebook
-
-![error](https://github.com/a-greshnova/2019_igem/blob/master/error.png)
 
 ## Определение расстояния мд двумя PAM для SjCas9 и SaCas9
 
