@@ -191,6 +191,8 @@ KT273259.1 GI:908904412	|	Wolbachia endosymbiont of Mycopsylla proxima isolate N
 
 ## Поиск PAM по геномам
 
+[Biopython - Entrez databases](http://people.duke.edu/~ccc14/pcfb/biopython/BiopythonEntrez.html)
+
 [Borreliella burgdorferi B31](https://www.ncbi.nlm.nih.gov/genome/738?genome_assembly_id=168382)
 
 [Файл с координатами PAM SpCas9 для биосенсора](https://github.com/intbio/2019_igem/blob/master/PAM_pairs_distance_26.txt)
