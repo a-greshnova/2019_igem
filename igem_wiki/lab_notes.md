@@ -6,8 +6,12 @@
 
 #### Wet lab
 - Literature search: 
+ * PAM sequences of Cas9 proteins from different organisms
+ * tick-borne diseases
+ * exploring diversity of *Ixodes*
+ * organisms associated with *Ixodes ricinus* (pathogen and nonpathogen organisms)
 
-#### Week 17.06 - 23.06
+### Week 17.06 - 23.06
 
 #### Dry lab
 - Extraction plasmid DNA from 20 ml of *E.coli* culture [Kit instructions]()
