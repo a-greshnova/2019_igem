@@ -5,7 +5,7 @@
 - Transformed *E.coli* competent cells with [PET28a GFP](https://benchling.com/s/seq-S3tBcQb1ENmPLygZHF46) plasmid and [BBa_K1150000](http://parts.igem.org/Part:BBa_K1150000) (dCas9) [Protocol](https://github.com/intbio/2019_igem/blob/master/protocols/bio-protocol143.pdf)
 
 #### Wet lab
-- Conduct a literature search: 
+- Conducted a literature search: 
    * found PAM sequences of Cas9 proteins for three organisms: *Streptococcus pyogenes*, *Staphylococcus aureus*, *Campylobacter jejuni*
    * made a list of tick-borne diseases
    * chose the most dangerous species (in Russia) from *Ixodes* family
@@ -16,8 +16,8 @@
 ### Week 17.06 - 23.06
 
 #### Dry lab
-- Extraction plasmid DNA from 20 ml of *E.coli* culture [Kit instructions]()
-- PCR with VR and VF2 primers to verify [BBa_K1150000](http://parts.igem.org/Part:BBa_K1150000) biobrick
+- Extracted [PET28a GFP](https://benchling.com/s/seq-S3tBcQb1ENmPLygZHF46) plasmid and [BBa_K1150000](http://parts.igem.org/Part:BBa_K1150000) plasmid DNA from 20 ml of *E.coli* culture [Kit instructions]()
+- PCR with VR and VF2 primers ([BBa_K1150000](http://parts.igem.org/Part:BBa_K1150000) biobrick verification)
 
 #### Wet lab
 
