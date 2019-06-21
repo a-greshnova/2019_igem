@@ -8,26 +8,24 @@
   - Споносры
 
 - People
-   - Team
-   - Sponsors
-   - Attributions
-   - Collaboration
+   - Team (общее фото, фото каждого участника (выделить тимлида - Качер) и супервайзера + 2 строчки - описание)
+   - Sponsors (?)
+   - Attributions (благодарности всем, кто помогал)
+   - Collaboration (?)
    
 - Project
-   - Inspiration - Anna
-   - Description
-   - Wet Lab
-   - Dry Lab
-   - Results
+   - Inspiration - Грибкова 
+   - Description (можно сделать презентацию, потом уже этот раздел)
+   - Wet Lab (описание экспериментов - Качер, Грешнова + Гриша)
+   - Dry Lab (Грешнова, Грибкова, Поспелова - биоинф; Кристовский - спектрофотометр)
+   - Results (в конце делать можно + добавить что сделали, но неполучилось)
    
-- Presentation
+- Presentation (этим можно уже сейчас заняться)
    
 - Parts
-   - Использованные части
-   - Новые части
-   
-
+   - Использованные части (Романов, Грешнова)
+   - Новые части (Романов, Грешнова, Качер)
  
-- Lab journal (weekly, Benchling link)
+- Lab journal (weekly, Benchling link) (Косарим, Качер, Грешнова: ведем Benchling подробно, на него ссылка; отчеты по неделям (кратко) - те же + Кристовский)
  
-- Human practicies
+- Human practicies (?)
