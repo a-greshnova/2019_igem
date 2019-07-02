@@ -81,6 +81,10 @@ The Inoue Method for Preparation and Transformation of Competent E. coli: Ultrac
 
 **Секвенирование dCas9**
 
+[VR](https://benchling.com/kosarimn97/f/nW0uzvMM-sequnces/seq-NXhU28Sp-p6_11j_vr_h9/edit) [VF2](https://benchling.com/kosarimn97/f/nW0uzvMM-sequnces/seq-9vPXULxG-p6_11j_vf2_g9/edit)
+
 Не хватает кусочка размером около 1000 в начале
 
 ![Alignment_dCas9](https://github.com/intbio/2019_igem/blob/master/dCas9_seq.jpg)
+
+
