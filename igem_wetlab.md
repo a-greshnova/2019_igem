@@ -70,3 +70,17 @@ The Inoue Method for Preparation and Transformation of Competent E. coli: Ultrac
 - pSB1C3 dCas9 (Cm) - 3 мкл + 100 мкл *E.coli*
 
 ### Выделение плазмид
+
+### Пороверка dCas9
+
+**ПЦР dCas9**
+
+Размер ПЦР фрагмента около 2500
+
+![PCR_gel](https://github.com/intbio/2019_igem/blob/master/dCas9_PCR.png)
+
+**Секвенирование dCas9**
+
+Не хватает кусочка размером около 1000 в начале
+
+![Alignment_dCas9](https://github.com/intbio/2019_igem/blob/master/dCas9_seq.jpg)
