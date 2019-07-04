@@ -16,11 +16,11 @@
 
 Таблица 1. PAM последовательности разных белков Cas9
 
-Cas9 | PAM
------|-----
-SpCas9 | NGG
-SaCas9 | NGRRT or NGRRN
-CjCas9 | NNNNRYAC
+Cas9 | PAM | Длина спейсера | Минимальное количество нуклеотидов, необходимое для специчности
+-----|-----|-----|-----
+SpCas9 | NGG | |
+SaCas9 | NGRRT or NGRRN | |
+CjCas9 | NNNNRYAC | |
 
 [Источник](https://blog.addgene.org/the-pam-requirement-and-expanding-crispr-beyond-spcas9)
 
