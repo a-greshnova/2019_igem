@@ -18,11 +18,13 @@
 
 Cas9 | PAM | Длина спейсера | Минимальное количество нуклеотидов, необходимое для специфичности
 -----|-----|-----|-----
-SpCas9 | NGG | |
-SaCas9 | NGRRT or NGRRN | |
-CjCas9 | NNNNRYAC | |
+SpCas9 | NGG | 17-20 |
+SaCas9 | NGRRT or NGRRN | 21-23 |
+CjCas9 | NNNNRYAC | 24 |
 
-[Источник](https://blog.addgene.org/the-pam-requirement-and-expanding-crispr-beyond-spcas9)
+[Источник1 - PAM](https://blog.addgene.org/the-pam-requirement-and-expanding-crispr-beyond-spcas9)
+[Источник2 - SpCas9, SaCas9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5972437/)
+[Источник3 - CjCas9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5859949/)
 
 ## 2. Tick-borne disease
 
