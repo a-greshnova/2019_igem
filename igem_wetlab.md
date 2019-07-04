@@ -5,7 +5,7 @@
 Задача | Время выполнения | Результат
 -------|------------------|-----
 Подготовка компетентных клеток E.coli | 12.06 - 15.06 | Готово
-Наработка dCas9 **P6 11J** 2019| 15.06 - 20.06 | Проверка сиквенса - inconsistent (нет куска в начале)
+Наработка dCas9 **P6 11J** 2019| 15.06 - 20.06 | Проверка сиквенса - ?
 ПЦР амплификация и добавление сайтов рестрикции и линкера к гену dCas9 | 1 день (? праймеры) | -
 Наработка плазмиды GFP | 19.06 - 20.06 | Готово
 Сборка dCas9 и GFP | 2 дня | -
@@ -75,9 +75,21 @@ The Inoue Method for Preparation and Transformation of Competent E. coli: Ultrac
 
 **ПЦР dCas9**
 
-Размер ПЦР фрагмента около 2500
+**Праймеры** VR VF2
 
 ![PCR_gel](https://github.com/intbio/2019_igem/blob/master/dCas9_PCR.png)
+![SM0311](https://github.com/intbio/2019_igem/blob/master/SM0311.jpg)
+
+Размер ПЦР фрагмента около 2500
+
+**Праймеры** 
+- Suffix-f: ACTAGTAGCGGCCGCTGCAG
+- Prefix-r2: CTCTAGAAGCGGCCGCGAATTC
+
+![dCas9_PSCR](https://github.com/intbio/2019_igem/blob/master/dCas9_PCR_prefix_suffix.jpg)
+![SM0311](https://github.com/intbio/2019_igem/blob/master/SM0311.jpg)
+
+Размер около 4000
 
 **Секвенирование dCas9**
 
