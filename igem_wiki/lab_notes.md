@@ -24,3 +24,12 @@
 - Conduct the analysis of *B.burgdorferi* genome
  * made a list of suitable PAM sequences
  * made a list of markers for *B.burgdorferi* detection
+ 
+ ### Week 1.07 - 7.07
+ 
+ ### Week 8.07 - 14.07
+ 
+ ### Week 12.08 - 18.08
+ 
+ ### Week 19.08 - 25.08
+ 
