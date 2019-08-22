@@ -20,16 +20,31 @@
 - PCR with VR and VF2 primers ([BBa_K1150000](http://parts.igem.org/Part:BBa_K1150000) biobrick verification)
 
 #### Wet lab
-
 - Conduct the analysis of *B.burgdorferi* genome
- * made a list of suitable PAM sequences
- * made a list of markers for *B.burgdorferi* detection
+   * made a list of suitable PAM sequences
+   * made a list of markers for *B.burgdorferi* detection
  
  ### Week 1.07 - 7.07
  
+ #### Dry lab
+ - Sent for sequencing [BBa_K1150000](http://parts.igem.org/Part:BBa_K1150000)
+ - Received sequencing results for [BBa_K1150000](http://parts.igem.org/Part:BBa_K1150000)
+   * Alignment with sequence from iGEM Parts Registry showed that sequence is inconsistent
+ 
  ### Week 8.07 - 14.07
+ 
+ #### Dry lab
+ 
  
  ### Week 12.08 - 18.08
  
+ #### Dry lab
+ - Received bacterial expression plasmid for Sp-dCas9 & sgRNA [MSP712](https://www.addgene.org/65768/)
+ - Extracted MSP712 plasmid DNA from 100 ml of *E.coli* culture [Kit instructions]()
+ - Conducted a restriction analysis of MSP712 plasmid
+   * Gel electrophoresis result did not match with our virtual digest result. A possible explanation is that there was a mistake in plasmid annotation. We decided not to use MSP712 plasmid for our experiments.
+ 
  ### Week 19.08 - 25.08
  
+ #### Dry lab
+ - Received bacterial expression plasmid for Sp-dCas9 
